@@ -18,4 +18,5 @@ cd AwesomeProject
 $ expo start
 ```
 
-Using Firebase - Expo Documentation https://docs.expo.io/versions/latest/guides/using-firebase/
+- Expo https://expo.io/
+- Using Firebase - Expo Documentation https://docs.expo.io/versions/latest/guides/using-firebase/
