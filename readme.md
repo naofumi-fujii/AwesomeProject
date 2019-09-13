@@ -17,3 +17,5 @@ Then you can run the project:
 cd AwesomeProject
 $ expo start
 ```
+
+Using Firebase - Expo Documentation https://docs.expo.io/versions/latest/guides/using-firebase/
